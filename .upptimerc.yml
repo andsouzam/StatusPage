@@ -7,22 +7,27 @@ sites:
     url: https://sgr.hinova.com.br/sgr/sgrv3/3569/dashboard/graficos
     expectedStatusCodes: 
      - 200
+    method: HEAD
   - name: SystemSatX
     url: https://tracking.systemsatx.com.br/
     expectedStatusCodes: 
      - 200
+    method: HEAD
   - name: Getrack
     url: https://sis.getrak.com/pontotrack/msumario/index
     expectedStatusCodes: 
      - 200
+    method: HEAD
   - name: Moskit
     url: https://app.moskitcrm.com/login
     expectedStatusCodes: 
      - 200
+    method: HEAD
   - name: D4Sign
     url: https://secure.d4sign.com.br/login.html?r=/?
     expectedStatusCodes: 
      - 200
+    method: HEAD
 assignees: # Users to assign downtime issues (optional)
   - andsouzam
 
