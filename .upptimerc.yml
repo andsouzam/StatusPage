@@ -4,7 +4,7 @@ repo: StatusPage # The name of this repository
 
 sites:
   - name: SGR
-    url: https://sgr.hinova.com.br/sgr/sgrv3/3569/dashboard/graficos
+    url: https://sgr.hinova.com.br/
     expectedStatusCodes: 
      - 200
     method: HEAD
