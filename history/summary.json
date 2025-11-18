@@ -1,22 +1,22 @@
 [
   {
     "name": "SGR",
-    "url": "https://sgr.hinova.com.br/sgr/sgrv3/3569/dashboard/graficos",
+    "url": "https://sgr.hinova.com.br/",
     "icon": "https://sgr.hinova.com.br/sgr/sgrv2/img/ico_sgr.png",
     "slug": "sgr",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "1.68%",
+    "uptimeDay": "1.68%",
+    "uptimeWeek": "1.68%",
+    "uptimeMonth": "1.68%",
+    "uptimeYear": "1.68%",
     "time": 991,
     "timeDay": 991,
     "timeWeek": 991,
     "timeMonth": 991,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2025-11-18": 76
+      "2025-11-18": 87
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracking.systemsatx.com.br.ico",
     "slug": "system-sat-x",
     "status": "down",
-    "uptime": "90.63%",
-    "uptimeDay": "90.63%",
-    "uptimeWeek": "90.63%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "90.63%",
+    "uptime": "79.10%",
+    "uptimeDay": "79.10%",
+    "uptimeWeek": "79.10%",
+    "uptimeMonth": "79.10%",
+    "uptimeYear": "79.10%",
     "time": 579,
     "timeDay": 579,
     "timeWeek": 579,
     "timeMonth": 579,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 19
     }
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 613,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
+    "time": 604,
+    "timeDay": 604,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.moskitcrm.com.ico",
     "slug": "moskit",
     "status": "down",
-    "uptime": "90.70%",
-    "uptimeDay": "90.70%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "90.70%",
+    "uptime": "79.15%",
+    "uptimeDay": "79.15%",
+    "uptimeWeek": "79.15%",
+    "uptimeMonth": "79.15%",
+    "uptimeYear": "79.15%",
     "time": 955,
     "timeDay": 955,
     "timeWeek": 955,
     "timeMonth": 955,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 18
     }
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1680,
-    "timeDay": 1680,
-    "timeWeek": 1680,
-    "timeMonth": 1680,
-    "timeYear": 1680,
+    "time": 1577,
+    "timeDay": 1577,
+    "timeWeek": 1577,
+    "timeMonth": 1577,
+    "timeYear": 1577,
     "dailyMinutesDown": {}
   }
 ]
