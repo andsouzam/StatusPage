@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: servicestatus.pontotrack.com
   baseUrl: /StatusPage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://customerm365011-my.sharepoint.com/personal/andersonmiranda_pontotrack_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fandersonmiranda%5Fpontotrack%5Fcom%2FDocuments%2Flogo%20ponto%20track%5FFUNDO%20ESCURO%2Epng&parent=%2Fpersonal%2Fandersonmiranda%5Fpontotrack%5Fcom%2FDocuments&ga=1
   name: Serviços PontoTrack
   introTitle: "Esta é a página de status dos nossos serviços."
   introMessage: "Aqui você pode acompanhar a disponibilidade em tempo real."
